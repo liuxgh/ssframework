@@ -1,7 +1,7 @@
-ssframework
-===========
-Spring MVC + seajs 0.0.1
-------------------------
+ssframework0.0.1
+================
+Spring MVC + seajs 
+-------------------
  框架节构如下：
 ------------
 		 src/main/
