@@ -1,60 +1,60 @@
 ssframework
 ===========
 Spring MVC + seajs 0.0.1
-========================
+－－－－－－－－－－－－－－－
  框架节构如下：
- src/main/
-       |----java
-              |----controller
-              |----model
-       |----webapp
-              |----view
-                     |----index
-                     	    |----index.html 
-                     	           .
-                     	           .
-                     	           .
-                     	    .
-                     	    .
-                     	    .
-                     |----layout
-                            |----~layout.html
-                                    .
-                                    .
-                                    .
-              |----css
-                     |----base.css
-                     |----common
-                             |----common.css
-                                    .
-                                    .
-                                    .
-                     |----module
-                             |----nav.css
-                             |----paging.css
-                                    .
-                                    .
-                                    .
-              |----images
-                     |----common
-                     |----module
-              |----js
-                     |----app
-                            |----nav.js
-                            |----paging.js
-                                   .
-                                   .
-                                   .
-                     |----sea-modules
-                            |----gallery
-                                   |----jquery
-                                   |----template
-                                   |----kindeditor
-                                        .
-                                        .
-                                        .
-                            |----seajs
-                            |----tpl
-                            |----seajs-config.js
- 
-===================================================
+－－－－－－－
+		 src/main/
+		       |----java
+		              |----controller
+		              |----model
+		       |----webapp
+		              |----view
+		                     |----index
+		                     	    |----index.html 
+		                     	           .
+		                     	           .
+		                     	           .
+		                     	    .
+		                     	    .
+		                     	    .
+		                     |----layout
+		                            |----~layout.html
+		                                    .
+		                                    .
+		                                    .
+		              |----css
+		                     |----base.css
+		                     |----common
+ 		                            |----common.css
+		                                    .
+		                                    .
+		                                    .
+		                     |----module
+		                             |----nav.css
+		                             |----paging.css
+		                                    .
+		                                    .
+		                                    .
+		              |----images
+		                     |----common
+		                     |----module
+		              |----js
+		                     |----app
+		                            |----nav.js
+		                            |----paging.js
+		                                   .
+		                                   .
+		                                   .
+		                     |----sea-modules
+		                            |----gallery
+		                                   |----jquery
+		                                   |----template
+		                                   |----kindeditor
+		                                        .
+		                                        .
+		                                        .
+		                            |----seajs
+		                            |----tpl
+		                            |----seajs-config.js
+
